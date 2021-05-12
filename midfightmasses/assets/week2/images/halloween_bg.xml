@@ -1,0 +1,4 @@
+﻿
+<TextureAtlas imagePath="halloween_bg.png">
+	<SubTexture name="halloweem bg0000" x="0" y="0" width="1057" height="537" />
+</TextureAtlas>
